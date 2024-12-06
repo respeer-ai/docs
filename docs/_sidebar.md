@@ -1,6 +1,6 @@
 - [ResPeer documents]()
 
-- [**1.** ResPeer social application]
+- [**1.** ResPeer social application]()
 
 - [**2.** CheCko wallet](en_US/checko.md)
   - [**2.1.** Create account](en_US/checko/create-account.md)
