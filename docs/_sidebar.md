@@ -21,7 +21,7 @@
   - [**2.15.** Change network endpoint]()
   - [**2.16.** Support of web3.js]()
   - [**2.17.** Web application integration]()
-  - [**2.18.** Clear current application connection]
+  - [**2.18.** Clear current application connection]()
 
 - [**3.** Blob gateway]()
   - [**3.1.** Blob storage]()
