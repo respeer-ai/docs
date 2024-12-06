@@ -26,7 +26,7 @@
   - [**3.2.** GET for blob]()
   - [**3.3.** Application integration]()
 
-- [**Reference**]
+- [**Reference**]()
   - [*Linera meme*](https://linerameme.fun)
   - [*Linera swap*](https://lineraswap.fun)
   - [*Linera blob gateway*](https://blobgateway.fun)
