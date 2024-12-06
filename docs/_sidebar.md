@@ -28,10 +28,10 @@
   - [**3.2.** GET for blob data]()
   - [**3.3.** Application integration]()
 
-- [**4.** Linera archimedes testnet faucet]
+- [**4.** Linera archimedes testnet faucet]()
   - [https://faucet.testnet-archimedes.linera.net]()
  
-- [**5.** ResPeer testnet endpoint]
+- [**5.** ResPeer testnet endpoint]()
   - *RPC endpoint* [https://testnet-archimedes.rpc.respeer.ai]()
   - *Blob gateway* [https://testnet-archimedes.blobgateway.com]()
 
