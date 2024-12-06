@@ -10,7 +10,13 @@ TBD
 
 TBD
 
+**Note**: Currently the mnemonic can only recover the first generated account. If you create new account in the wallet again, you cannot recover it with this mnemonic currently.
+
 ### Backup mnemonic
+
+TBD
+
+### Backup private key
 
 TBD
 
