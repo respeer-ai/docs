@@ -18,13 +18,13 @@
   - [**2.12.** Backup private key]()
   - [**2.13.** Import microchain]()
   - [**2.14.** Change network endpoint]()
-  - [**2.15.** Support of web3.js]
-  - [**2.16.** Web application integration]
+  - [**2.15.** Support of web3.js]()
+  - [**2.16.** Web application integration]()
 
 - [**3.** Blob gateway]()
   - [**3.1.** Blob storage]()
-  - [**3.2.** GET for blob]
-  - [**3.3.** Application integration]
+  - [**3.2.** GET for blob]()
+  - [**3.3.** Application integration]()
 
 - [**Reference**]
   - [*Linera meme*](https://linerameme.fun)
