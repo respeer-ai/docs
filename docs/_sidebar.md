@@ -2,8 +2,8 @@
 
 - [**1.** ResPeer social application]()
 
-- [**2.** CheCko wallet](en_US/checko.md)
-  - [**2.1.** Create account](en_US/checko/create-account.md)
+- [**2.** CheCko wallet](en_US/CheCko.md)
+  - [**2.1.** Create account](en_US/CheCko/CreateAccount.md)
   - [**2.2.** Backup mnemonic]()
   - [**2.3.** Set network endpoint]()
   - [**2.4.** Check initial settings]()
@@ -23,19 +23,13 @@
   - [**2.17.** Web application integration]()
   - [**2.18.** Clear current application connection]()
 
-- [**3.** Blob gateway]()
-  - [**3.1.** Blob storage]()
-  - [**3.2.** GET for blob data]()
-  - [**3.3.** Application integration]()
+- [**3.** Blob gateway](en_US/BlobGateway.md)
+  - [**3.1.** Blob storage](en_US/BlobGateway/BlobStorage.md)
+  - [**3.2.** GET for blob data](en_US/BlobGateway/GetBlobData.md)
+  - [**3.3.** Application integration](en_US/BlobGateway/ApplicationIntegration.md)
 
-- [**4.** Linera archimedes testnet faucet]()
-  - [https://faucet.testnet-archimedes.linera.net]()
+- [**4.** Linera archimedes testnet faucet](en_US/LineraArchimedesTestnet.md)
  
-- [**5.** ResPeer testnet endpoint]()
-  - *RPC endpoint* [https://testnet-archimedes.rpc.respeer.ai]()
-  - *Blob gateway* [https://testnet-archimedes.blobgateway.com]()
+- [**5.** ResPeer testnet endpoint](en_US/ResPeerTestnetEndpoint.md)
 
-- [**Reference**]()
-  - [*Linera meme*](https://testnet.linerameme.fun)
-  - [*Linera swap*](https://testnet.lineraswap.fun)
-  - [*Linera blob gateway*](https://testnet.blobgateway.com)
+- [**Reference**](en_US/Reference.md)
