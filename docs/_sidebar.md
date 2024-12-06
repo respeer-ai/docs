@@ -23,7 +23,7 @@
 
 - [**3.** Blob gateway]()
   - [**3.1.** Blob storage]()
-  - [**3.2.** GET for blob]()
+  - [**3.2.** GET for blob data]()
   - [**3.3.** Application integration]()
 
 - [**Reference**]()
