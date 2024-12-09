@@ -109,7 +109,20 @@ const result = await window.linera.request({
 
 ### Linera query
 
-TBD
+```
+const res = await window.linera?.request({
+  method: 'linera_graphqlQuery',
+  params: {
+    publicKey: userStore.account,
+    query: {
+      query: applications.loc?.source?.body,
+      variables: {
+        chainId: userStore.chainId
+      }
+    }
+  }
+})
+```
 
 ### Linera subscription
 
