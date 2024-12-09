@@ -110,10 +110,19 @@ const result = await window.linera.request({
 ### Linera query
 
 ```
+const web3 = new Web3(window.linera)
+
+const accounts = await web3.eth.requestAccounts()
+if (accounts.length === 0) return
+
+const state = await window.linera?.request({
+  method: 'metamask_getProviderState'
+}) as Record<string, string>
+
 const res = await window.linera?.request({
   method: 'linera_graphqlQuery',
   params: {
-    publicKey: userStore.account,
+    publicKey: accounts[0],
     query: {
       query: applications.loc?.source?.body,
       variables: {
