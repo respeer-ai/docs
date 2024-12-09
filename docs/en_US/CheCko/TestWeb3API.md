@@ -110,3 +110,25 @@ const result = await window.linera.request({
 ### Linera query
 
 TBD
+
+### Linera subscription
+
+```
+const subscriptionHandler = (msg: unknown) => {
+  console.log('Subscription', msg)
+}
+
+window.linera?.request({
+  method: 'linera_subscribe'
+}).then((_subscriptionId) => {
+  subscriptionId.value = _subscriptionId as string
+  window.linera.on('message', subscriptionHandler)
+}).catch((e) => {
+  console.log('Fail subscribe', e)
+})
+
+void window.linera?.request({
+  method: 'linera_unsubscribe',
+  params: [subscriptionId.value]
+})
+```
