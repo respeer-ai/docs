@@ -9,10 +9,28 @@ Currently we don't publish pre-built package to chrome application store. Users 
 TBD
 ```
 ### Unzip
+<center>
+
+![image-2-1-2](../../assets/2-1-2.png)
+
+</center>
 ```
 TBD
 ```
 ### Load release package into chrome extension
+<center>
+
+![image-2-1-3](../../assets/2-1-3.png)
+
+![image-2-1-4](../../assets/2-1-4.png)
+
+![image-2-1-5](../../assets/2-1-5.png)
+
+![image-2-1-6](../../assets/2-1-6.png)
+
+![image-2-1-7](../../assets/2-1-7.png)
+
+</center>
 ```
 TBD
 ```
