@@ -3,20 +3,47 @@
 After installation, CheCko will be run in chrome extension environment. But if you don't have any account created or you just install it, it'll open a new tab in chrome as a tutorial of account creation.
 
 ### Create password
+<center>
 
+![image-2-2-1](../../assets/2-2-1.png)
+
+</center>
 TBD
 
 ### Create account
+<center>
+
+![image-2-2-2](../../assets/2-2-2.png)
+
+</center>
 
 TBD
 
 **Note**: Currently the mnemonic can only recover the first generated account. If you create new account in the wallet again, you cannot recover it with this mnemonic currently.
 
 ### Backup mnemonic
+<center>
+
+![image-2-2-3](../../assets/2-2-3.png)
+
+</center>
 
 TBD
 
 ### Backup private key
+<center> 
+
+![image-2-2-4](../../assets/2-2-4.png)
+
+![image-2-2-5](../../assets/2-2-5.png)
+
+![image-2-2-6](../../assets/2-2-6.png)
+
+![image-2-2-7](../../assets/2-2-7.png)
+
+![image-2-2-8](../../assets/2-2-8.png)
+
+</center>
 
 TBD
 
