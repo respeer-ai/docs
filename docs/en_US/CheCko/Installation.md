@@ -67,6 +67,7 @@ Since we don't publish CheCko to chrome extension application store, so you need
 ## Install from source code
 
 ### Clone repository
+
 ```
 git clone https://github.com/respeer-ai/linera-wallet.git
 cd linera-wallet
@@ -74,11 +75,13 @@ git submodule update --init --recursive
 ```
 
 ### Install rust toolchain
+
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
 ### Install wasm toolchain then compile
+
 ```
 yarn install wasm-pack
 yarn
