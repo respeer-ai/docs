@@ -148,25 +148,114 @@ Before you interact with meme token, you must import it to your wallet.
 </center>
 
 ### Transfer ERC20 like fungible meme
+<center>
+<kbd>
+  <img src="../../assets/2-7-33.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
 
+<kbd>
+  <img src="../../assets/2-7-34.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
+
+<kbd>
+  <img src="../../assets/2-7-35.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
+
+<kbd>
+  <img src="../../assets/2-7-36.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
+
+<kbd>
+  <img src="../../assets/2-7-37.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
+
+<kbd>
+  <img src="../../assets/2-7-38.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
+</center>
 TBD
 
 ### Swap meme
+<center>
+<kbd>
+  <img src="../../assets/2-7-39.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
+
+<kbd>
+  <img src="../../assets/2-7-40.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
+
+<kbd>
+  <img src="../../assets/2-7-41.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
+
+<kbd>
+  <img src="../../assets/2-7-42.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
+
+<kbd>
+  <img src="../../assets/2-7-43.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
+
+
+<kbd>
+  <img src="../../assets/2-7-44.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
+
+</center>
 
 TBD
 
 ### Add liquidity for swap pool
+<center>
+<kbd>
+  <img src="../../assets/2-7-45.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
+
+<kbd>
+  <img src="../../assets/2-7-46.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
+<kbd>
+  <img src="../../assets/2-7-47.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
+<kbd>
+  <img src="../../assets/2-7-48.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
+</center>
 
 TBD
 
 ### Remove liquidity for swap pool
+<center>
+<kbd>
+  <img src="../../assets/2-7-49.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
+<kbd>
+  <img src="../../assets/2-7-50.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
+<kbd>
+  <img src="../../assets/2-7-51.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
+<kbd>
+  <img src="../../assets/2-7-52.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
+
+</center>
 TBD
 
 ### View tokens pair graph
-
+<center>
+<kbd>
+  <img src="../../assets/2-7-53.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
+</center>
 TBD
-
+![alt text](image.png)
 ### Bulletins
-
+<center>
+<kbd>
+  <img src="../../assets/2-7-54.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
+</center>
 TBD
