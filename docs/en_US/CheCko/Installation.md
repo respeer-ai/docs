@@ -31,6 +31,7 @@ Since we don't publish CheCko to chrome extension application store, so you need
   <img src="../../assets/2-1-3.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
 </kbd>
 </center>
+<br>
 
 - Enable developer mode
 
@@ -39,6 +40,7 @@ Since we don't publish CheCko to chrome extension application store, so you need
   <img src="../../assets/2-1-4.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
 </kbd>
 </center>
+<br>
 
 - Click **Load unpacked** button, goto **$APPLICATION_DIR**, then load unpacked CheCko wallet
 
@@ -47,6 +49,7 @@ Since we don't publish CheCko to chrome extension application store, so you need
   <img src="../../assets/2-1-5.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
 </kbd>
 </center>
+<br>
 
 - Check installation of CheCko wallet
 
@@ -55,6 +58,7 @@ Since we don't publish CheCko to chrome extension application store, so you need
   <img src="../../assets/2-1-6.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
 </kbd>
 </center>
+<br>
 
 - Access installed CheCko wallet
 
