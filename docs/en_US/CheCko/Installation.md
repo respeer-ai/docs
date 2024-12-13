@@ -30,6 +30,10 @@ Since we don't publish CheCko to chrome extension application store, so you need
 <kbd>
   <img src="../../assets/2-1-3-1.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
 </kbd>
+<<<<<<< HEAD
+
+=======
+
 </center>
 
 - Enable developer mode
