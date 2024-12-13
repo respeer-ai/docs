@@ -251,7 +251,6 @@ TBD
 </kbd>
 </center>
 TBD
-![alt text](image.png)
 ### Bulletins
 <center>
 <kbd>
