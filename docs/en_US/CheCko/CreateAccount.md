@@ -4,6 +4,8 @@ After installation, CheCko will be run in chrome extension environment. But if y
 
 ### Create password
 
+Your password must contain letters, digits, and symbols. You must store your password properly. CheCko is not able to recover your password if your forget it due to the it only store cipher text in the wallet.
+
 <center>
 <kbd>
   <img src="../../assets/2-2-2.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
