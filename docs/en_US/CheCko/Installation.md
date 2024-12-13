@@ -12,24 +12,37 @@ TBD
 
 <center>
 <kbd>
-<img src="../../assets/2-1-2.png" height="600px" fit="cover" />
+  <img src="../../assets/2-1-2.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
 </kbd>
 </center>
+
+
+
 
 ### Load release package into chrome extension
 <center>
 
 <kbd>
-<img src="../../assets/2-1-3.png" height="600px" fit="cover" />
+  <img src="../../assets/2-1-3.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
 </kbd>
 
-![image-2-1-4](../../assets/2-1-4.png)
+<kbd>
+  <img src="../../assets/2-1-4.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-1-5](../../assets/2-1-5.png)
+<kbd>
+  <img src="../../assets/2-1-5.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-1-6](../../assets/2-1-6.png)
+<kbd>
+  <img src="../../assets/2-1-6.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-1-7](../../assets/2-1-7.png)
+<kbd>
+  <img src="../../assets/2-1-7.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
+
+
 
 </center>
 ```

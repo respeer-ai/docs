@@ -4,37 +4,39 @@ CheCko integrates ResPeer RPC network endpoint in default. Even the RPC endpoint
 
 ### Open network setting menu
 <center>
-
-![image-2-3-1](../../assets/2-3-1.png)
-
-![image-2-3-2](../../assets/2-3-2.png)
-
-![image-2-3-3](../../assets/2-3-3.png)
-
+<kbd>
+  <img src="../../assets/2-3-1.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
+<kbd>
+  <img src="../../assets/2-3-2.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
+<kbd>
+  <img src="../../assets/2-3-3.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
 </center>
 TBD
 
 ### Fill faucet, rpc and blob gateway endpoint
 <center>
-
-![image-2-3-4](../../assets/2-3-4.png)
-
+<kbd>
+  <img src="../../assets/2-3-4.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
 </center>
 TBD
 
 ### Save network setting
 <center>
-
-![image-2-3-5](../../assets/2-3-5.png)
-
+<kbd>
+  <img src="../../assets/2-3-5.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
 </center>
 TBD
 
 ### Switch network
 <center>
-
-![image-2-3-6](../../assets/2-3-6.png)
-
+<kbd>
+  <img src="../../assets/2-3-6.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
 </center>
 TBD
 

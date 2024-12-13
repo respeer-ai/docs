@@ -4,8 +4,9 @@ Each microchain will be claimed from preset faucet with users' public key.
 
 ### Claim microchain
 <center>
-
-![image-2-5-1](../../assets/2-5-1.png)
+<kbd>
+  <img src="../../assets/2-5-1.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
 
 </center>
 TBD
@@ -14,17 +15,17 @@ TBD
 
 ### Validate microchain
 <center>
-
-![image-2-5-2](../../assets/2-5-2.png)
-
+<kbd>
+  <img src="../../assets/2-5-2.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
 </center>
 TBD
 
 ### Backup microchain
 <center>
-
-![image-2-5-3](../../assets/2-5-3.png)
-
+<kbd>
+  <img src="../../assets/2-5-3.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
 </center>
 TBD
 
@@ -32,10 +33,13 @@ TBD
 
 ### Import microchain
 <center>
+<kbd>
+  <img src="../../assets/2-5-4.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
 
-![image-2-5-4](../../assets/2-5-4.png)
-
-![image-2-5-5](../../assets/2-5-5.png)
+<kbd>
+  <img src="../../assets/2-5-5.png" style="max-height:100%; height: 800px; width: auto; display: block;" />
+</kbd>
 
 </center>
 TBD

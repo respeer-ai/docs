@@ -4,62 +4,117 @@
 
 ### Create ERC20 like fungible meme
 <center>
+<kbd>
+  <img src="../../assets/2-7-1.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-7-1](../../assets/2-7-1.png)
+<kbd>
+  <img src="../../assets/2-7-2.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-7-2](../../assets/2-7-2.png)
+<kbd>
+  <img src="../../assets/2-7-3.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-7-3](../../assets/2-7-3.png)
+<kbd>
+  <img src="../../assets/2-7-4.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-7-4](../../assets/2-7-4.png)
+<kbd>
+  <img src="../../assets/2-7-5.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-7-5](../../assets/2-7-5.png)
+<kbd>
+  <img src="../../assets/2-7-6.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-7-6](../../assets/2-7-6.png)
+<kbd>
+  <img src="../../assets/2-7-7.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-7-7](../../assets/2-7-7.png)
+<kbd>
+  <img src="../../assets/2-7-8.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-7-8](../../assets/2-7-8.png)
+<kbd>
+  <img src="../../assets/2-7-9.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-7-9](../../assets/2-7-9.png)
+<kbd>
+  <img src="../../assets/2-7-10.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-7-10](../../assets/2-7-10.png)
+<kbd>
+  <img src="../../assets/2-7-11.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-7-11](../../assets/2-7-11.png)
+<kbd>
+  <img src="../../assets/2-7-12.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-7-12](../../assets/2-7-12.png)
+<kbd>
+  <img src="../../assets/2-7-13.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-7-13](../../assets/2-7-13.png)
+<kbd>
+  <img src="../../assets/2-7-14.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-7-14](../../assets/2-7-14.png)
+<kbd>
+  <img src="../../assets/2-7-15.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-7-15](../../assets/2-7-15.png)
+<kbd>
+  <img src="../../assets/2-7-16.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-7-16](../../assets/2-7-16.png)
+<kbd>
+  <img src="../../assets/2-7-17.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-7-17](../../assets/2-7-17.png)
+<kbd>
+  <img src="../../assets/2-7-18.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-7-18](../../assets/2-7-18.png)
+<kbd>
+  <img src="../../assets/2-7-19.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-7-19](../../assets/2-7-19.png)
+<kbd>
+  <img src="../../assets/2-7-20.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-7-20](../../assets/2-7-20.png)
+<kbd>
+  <img src="../../assets/2-7-21.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-7-21](../../assets/2-7-21.png)
+<kbd>
+  <img src="../../assets/2-7-22.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-7-22](../../assets/2-7-22.png)
+<kbd>
+  <img src="../../assets/2-7-23.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-7-23](../../assets/2-7-23.png)
+<kbd>
+  <img src="../../assets/2-7-24.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-7-24](../../assets/2-7-24.png)
+<kbd>
+  <img src="../../assets/2-7-25.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-7-25](../../assets/2-7-25.png)
+<kbd>
+  <img src="../../assets/2-7-26.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-7-26](../../assets/2-7-26.png)
+<kbd>
+  <img src="../../assets/2-7-27.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
-![image-2-7-27](../../assets/2-7-27.png)
-
-![image-2-7-28](../../assets/2-7-28.png)
+<kbd>
+  <img src="../../assets/2-7-28.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
 </center>
 
@@ -68,13 +123,21 @@ TBD
 ### Import created meme
 <center>
 
-![image-2-7-29](../../assets/2-7-29.png)
+<kbd>
+  <img src="../../assets/2-7-29.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
 
-![image-2-7-30](../../assets/2-7-30.png)
+<kbd>
+  <img src="../../assets/2-7-30.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
 
-![image-2-7-31](../../assets/2-7-31.png)
+<kbd>
+  <img src="../../assets/2-7-31.png" style="max-height:100%; height: 800px; width: auto; display: block;" />
+</kbd>
 
-![image-2-7-32](../../assets/2-7-32.png)
+<kbd>
+  <img src="../../assets/2-7-32.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
 
 </center>
 TBD
