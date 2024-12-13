@@ -18,6 +18,9 @@ After installation, CheCko will be run in chrome extension environment. But if y
 <kbd>
   <img src="../../assets/2-2-3.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
+<kbd>
+  <img src="../../assets/2-2-3-1.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
 </center>
 
 **Note**: Currently the mnemonic can only recover the first generated account. If you create new account in the wallet again, you cannot recover it with this mnemonic currently.
