@@ -4,44 +4,46 @@ Different from traditional blockchain, you need to know which chain you need to 
 
 ### Select from and to account / microchain
 <center>
-
-![image-2-6-1](../../assets/2-6-1.png)
-
+<kbd>
+  <img src="../../assets/2-6-1.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
 </center>
 TBD
 
 ### Set transfer amount
 <center>
-
-![image-2-6-2](../../assets/2-6-2.png)
-
+<kbd>
+  <img src="../../assets/2-6-2.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
 </center>
 TBD
 
 ### Confirm transfer information
 <center>
-
-![image-2-6-3](../../assets/2-6-3.png)
-
+<kbd>
+  <img src="../../assets/2-6-3.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
 </center>
 TBD
 
 ### Transfer
 <center>
-
-![image-2-6-4](../../assets/2-6-4.png)
-
+<kbd>
+  <img src="../../assets/2-6-4.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
 </center>
 TBD
 
 ### Check transfer detail
 <center>
-
-![image-2-6-5](../../assets/2-6-5.png)
-
-![image-2-6-6](../../assets/2-6-6.png)
-
-![image-2-6-7](../../assets/2-6-7.png)
-
+<kbd>
+  <img src="../../assets/2-6-5.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
+<kbd>
+  <img src="../../assets/2-6-6.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
+<kbd>
+  <img src="../../assets/2-6-7.png" style="max-height:100%; height: 800px; width: auto; display: block;" />
+</kbd>
 </center>
 TBD

@@ -5,7 +5,9 @@ We should have a permissions menu in CheCko to let user be able to remove connec
 ### Open wallet database storage
 <center>
 
-![image-2-10-1](../../assets/2-10-1.png)
+<kbd>
+  <img src="../../assets/2-10-1.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
 
 </center>
 TBD
@@ -13,7 +15,9 @@ TBD
 ### Find what you want to remove
 <center>
 
-![image-2-10-2](../../assets/2-10-2.png)
+<kbd>
+  <img src="../../assets/2-10-2.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
 </center>
 TBD
@@ -21,7 +25,9 @@ TBD
 ### Remove
 <center>
 
-![image-2-10-3](../../assets/2-10-3.png)
+<kbd>
+  <img src="../../assets/2-10-3.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+</kbd>
 
 </center>
 TBD

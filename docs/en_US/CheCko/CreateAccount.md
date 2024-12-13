@@ -4,19 +4,17 @@ After installation, CheCko will be run in chrome extension environment. But if y
 
 ### Create password
 <center>
-
 <kbd>
-<img src="../../assets/2-2-1.png" height="600px" fit="cover" />
+  <img src="../../assets/2-2-1.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
-
 </center>
 TBD
 
 ### Create account
 <center>
-
-![image-2-2-2](../../assets/2-2-2.png)
-
+<kbd>
+  <img src="../../assets/2-2-2.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
 </center>
 
 TBD
@@ -25,26 +23,30 @@ TBD
 
 ### Backup mnemonic
 <center>
-
-![image-2-2-3](../../assets/2-2-3.png)
-
+<kbd>
+  <img src="../../assets/2-2-3.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
 </center>
 
 TBD
 
 ### Backup private key
 <center> 
-
-![image-2-2-4](../../assets/2-2-4.png)
-
-![image-2-2-5](../../assets/2-2-5.png)
-
-![image-2-2-6](../../assets/2-2-6.png)
-
-![image-2-2-7](../../assets/2-2-7.png)
-
-![image-2-2-8](../../assets/2-2-8.png)
-
+<kbd>
+  <img src="../../assets/2-2-4.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
+<kbd>
+  <img src="../../assets/2-2-5.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
+<kbd>
+  <img src="../../assets/2-2-6.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
+<kbd>
+  <img src="../../assets/2-2-7.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
+<kbd>
+  <img src="../../assets/2-2-8.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
 </center>
 
 TBD
