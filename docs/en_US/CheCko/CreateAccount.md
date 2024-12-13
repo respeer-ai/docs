@@ -23,6 +23,9 @@ Currently the mnemonic can only recover the first generated account. If you crea
 <kbd>
   <img src="../../assets/2-2-3.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
+<kbd>
+  <img src="../../assets/2-2-3-1.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+</kbd>
 </center>
 
 ### Backup private key
