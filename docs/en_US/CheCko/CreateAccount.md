@@ -5,7 +5,9 @@ After installation, CheCko will be run in chrome extension environment. But if y
 ### Create password
 <center>
 
-![image-2-2-1](../../assets/2-2-1.png)
+<kbd>
+<img src="../../assets/2-2-1.png" height="600px" fit="cover" />
+</kbd>
 
 </center>
 TBD

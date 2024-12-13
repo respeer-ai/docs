@@ -1,3 +1,5 @@
+- [**0.** Disclaimer](en_US/Disclaimer.md)
+
 - [**1.** ResPeer social application](en_US/ResPeerSocialApplication.md)
 
 - [**2.** CheCko wallet](en_US/CheCko.md)
@@ -20,5 +22,7 @@
 - [**4.** Linera archimedes testnet faucet](en_US/LineraArchimedesTestnet.md)
  
 - [**5.** ResPeer testnet endpoint](en_US/ResPeerTestnetEndpoint.md)
+
+- [**6.** Frequently asked questions](en_US/FAQs.md)
 
 - [**Reference**](en_US/Reference.md)

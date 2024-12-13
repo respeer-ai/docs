@@ -9,18 +9,19 @@ Currently we don't publish pre-built package to chrome application store. Users 
 TBD
 ```
 ### Unzip
+
 <center>
-
-![image-2-1-2](../../assets/2-1-2.png)
-
+<kbd>
+<img src="../../assets/2-1-2.png" height="600px" fit="cover" />
+</kbd>
 </center>
-```
-TBD
-```
+
 ### Load release package into chrome extension
 <center>
 
-![image-2-1-3](../../assets/2-1-3.png)
+<kbd>
+<img src="../../assets/2-1-3.png" height="600px" fit="cover" />
+</kbd>
 
 ![image-2-1-4](../../assets/2-1-4.png)
 

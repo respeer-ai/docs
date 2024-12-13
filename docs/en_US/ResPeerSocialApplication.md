@@ -1,3 +1,3 @@
 # ResPeer social application
 
-Coming soon...
+ResPeer is in heavy development, stay tuned.
