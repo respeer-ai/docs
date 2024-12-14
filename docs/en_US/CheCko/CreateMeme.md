@@ -133,11 +133,12 @@ Before you interact with meme token, you must import it to your wallet.
 <kbd>
   <img src="../../assets/2-7-29.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
-
 <kbd>
   <img src="../../assets/2-7-30.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
+</center>
 
+<center>
 <kbd>
   <img src="../../assets/2-7-31.png" style="max-height:100%; height: 800px; width: auto; display: block;" />
 </kbd>
@@ -148,6 +149,9 @@ Before you interact with meme token, you must import it to your wallet.
 </center>
 
 ### Transfer ERC20 like fungible meme
+
+After success to import ERC20 fungible token, you can transfer token to other accounts. Some token may support mint by native token (currently due to application cannot hold native token on testnet, so you have to mint with WTLINERA token which could be minted by native token) then users can mint with in the wallet directly.
+
 <center>
 <kbd>
   <img src="../../assets/2-7-33.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
@@ -173,14 +177,18 @@ Before you interact with meme token, you must import it to your wallet.
   <img src="../../assets/2-7-38.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 </center>
-TBD
 
 ### Swap meme
+
+Every fungible meme token created on [Linera meme](https://testnet-archimedes.linerameme.fun) will be listed to [Linera swap](https://testnet-archimedes.lineraswap.fun) automatically. User can Swap the meme token in the SWAP application directly.
+
 <center>
 <kbd>
   <img src="../../assets/2-7-39.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
 </kbd>
+</center>
 
+<center>
 <kbd>
   <img src="../../assets/2-7-40.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
@@ -188,7 +196,9 @@ TBD
 <kbd>
   <img src="../../assets/2-7-41.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
+</center>
 
+<center>
 <kbd>
   <img src="../../assets/2-7-42.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
@@ -196,22 +206,26 @@ TBD
 <kbd>
   <img src="../../assets/2-7-43.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
-
-
+</center>
+<center>
 <kbd>
   <img src="../../assets/2-7-44.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
 </kbd>
 
 </center>
 
-TBD
 
 ### Add liquidity for swap pool
+
+User can also Add Liquidity for the token pools in the SWAP application.
+
 <center>
 <kbd>
   <img src="../../assets/2-7-45.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
 </kbd>
+</center>
 
+<center>
 <kbd>
   <img src="../../assets/2-7-46.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
@@ -223,39 +237,41 @@ TBD
 </kbd>
 </center>
 
-TBD
-
 ### Remove liquidity for swap pool
+
+User can also Remove Liquidity for the token pools in the SWAP application.
+
 <center>
 <kbd>
   <img src="../../assets/2-7-49.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
 </kbd>
+</center>
 
+<center>
 <kbd>
   <img src="../../assets/2-7-50.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 <kbd>
   <img src="../../assets/2-7-51.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
+</center>
+
+<center>
 <kbd>
   <img src="../../assets/2-7-52.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
 </kbd>
-
 </center>
-TBD
 
-### View tokens pair graph
+### View tokens pair graph and leaderboard
+
+User can view token pools candle graph in [Linera swap](https://testnet-archimedes.lineraswap.fun). A simple leaderboard is implemented to display top tokens and top holders.
+
 <center>
 <kbd>
   <img src="../../assets/2-7-53.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
 </kbd>
-</center>
-TBD
-![alt text](image.png)
-### Bulletins
-<center>
 <kbd>
   <img src="../../assets/2-7-54.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 </center>
-TBD
+
