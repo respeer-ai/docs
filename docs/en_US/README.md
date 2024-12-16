@@ -52,32 +52,32 @@ Each credit amount has its lifetime. The user's balance will only contain amount
 
 ## Avatar Marketplace
 
-ResPeer provides a market to producers. Beside publishing content, producer can also put their works on shelves with Linera token price. Exchange rate between credits and Linera token will be set through DAO. After that when user want to buy assets from the market, they can pay with Linera token, combined with credits if they already earn some. A fix ratio of the total amount of each market transaction will be deposited to fundation, the used as rewards to the content author, the reviewer, and the activity winner.
+ResPeer provides a market to producers. Besides publishing content, the producer can also put their works on shelves with Linera token price. The exchange rate between credits and Linera tokens will be set through DAO. After that, when users want to buy assets from the market, they can pay with Linera tokens combined with credits if they already earn some. A fixed ratio of the total amount of each market transaction will be deposited to the foundation and used as a reward to the content author, the reviewer, and the activity winner.
 
 ## Reader Club
 
-Reader club is another application which will hold some activities, e.g. The Most Popular Content. Reader can donation to the reader club, recommend content, sharing their view, and participate activity.
+Reader club is another application that will hold some activities, e.g. The Most Popular Content. Readers can donate to the reader club, recommend content, share their views, and participate in activities.
 
 ## Author Copilot and Computing Market
 
-ResPeer leverages Linera's Edge AI to provide an AI copilot that assists authors with various tasks such as fixing grammar, rewriting, generating illustrations or covers, and abbreviations. This helps authors enhance their content even if they have limitations in writing or artistic skills.
+ResPeer leverages Linera's Edge AI to provide an AI copilot that assists authors with various tasks, such as fixing grammar, rewriting, generating illustrations or covers, and abbreviations. This helps authors enhance their content even if they have limitations in writing or artistic skills.
 
-Authors can rent computing resources from community members who have registered their resources with ResPeer at reasonable prices. If an author finds the price acceptable, they can rent the resources needed for their AI-assisted tasks, paying the computing provider incrementally as the work progresses. For example, if 10,000 words need rewriting, the author pays after each 1,000 words are generated. If the provider tries generating more words without being paid, the AI copilot will stop. Similarly, if the author is unsatisfied with the initial work, they can withhold further payments, potentially losing a small amount paid for the initial work.
+Authors can rent computing resources from community members who have registered their resources with ResPeer at reasonable prices. If an author finds the price acceptable, they can rent the resources needed for their AI-assisted tasks, paying the computing provider incrementally as the work progresses. For example, if 10,000 words need rewriting, the author pays after every 1,000 words are generated. If the provider tries generating more words without being paid, the AI copilot will stop. Similarly, if the author is unsatisfied with the initial work, they can withhold further payments, potentially losing a small amount paid for the initial work.
 
-This model allows authors to affordably leverage AI capabilities to improve their content, while community members provide computing resources. The incremental payment structure mitigates risks for both parties.
+This model allows authors to affordably leverage AI capabilities to improve their content while community members provide computing resources. The incremental payment structure mitigates risks for both parties.
 
 ![image](https://github.com/user-attachments/assets/7e9650d8-e443-4657-9dee-e5424d9efd36)
 
 ## Certificate
 
-For some worth user, the committee can decide to issue an certificate to the user. Currently, user who donate to reader club will receive a donation certificate with badge, author who publish the most popular content will receive a golden author certificate, and each activity winner will receive a activity winner certificate.
+For some worthy users, the committee can decide to issue a certificate to the user. Currently, users who donate to the reader club will receive a donation certificate with the badge, the author who publishes the most popular content will receive a golden author certificate, and each activity winner will receive an activity winner certificate.
 
 
-Users can reward content they like with Linera token. They also can use the asset they bought from the market to decorate themselves in the feed application. If they got some certificate and badge successfully, it will also be displayed within the feed application.
+Users can reward content they like with the Linera token. They also can use the assets they bought from the market to decorate themselves in the feed application. If they get some certificate and badge successfully, it will also be displayed within the feed application.
 
 
 ## Compiling and Deployment
-You should install yarn, rust before next steps.
+You should install yarn and rust before the next steps.
 ```
 git clone https://github.com/linera-io/linera-protocol.git
 cd linera-protocol
@@ -99,14 +99,14 @@ yarn start
   - [ ] Get content from blob storage
 - [ ] Implement foundation with native token
   - [ ] Implement deposit/withdraw with native token
-- [ ] Implement assets trading with temporary chain
-  - [ ] Implement multi owner creation in frontend
+- [ ] Implement assets trading with a temporary chain
+  - [ ] Implement multi-owner creation in frontend
   - [ ] Implement application of atomic exchange
 - [ ] Support author copilot
   - [ ] Integrate CoEDiT T5 model
   - [ ] Integrate stable diffusion model
   - [ ] Implement tokens buffer
-  - [ ] Implement asynchronize tokens query
+  - [ ] Implement a synchronized tokens query
   - [ ] Support task list in frontend
   - [ ] Support text compare in frontend
 - [ ] Implement cpregistry application
