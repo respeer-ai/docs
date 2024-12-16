@@ -93,3 +93,29 @@ yarn build:bex
 ### Load built package into chrome extension
 
 It's totally same as above section besides that you need to load from directory *linera-wallet/dist/bex*.
+
+## Run MaaS (Microchain as a Service) RPC endpoint
+
+CheCko should be run with MaaS RPC endpoint, which maintain microchain store for CheCko wallet without private key and  connect CheCko to Linera network. CheCko have preset RPC endpoint deployed by respeer.ai. But we encourage users to run RPC endpoint by themselves. Trust nobody but yourself!
+
+```
+git clone https://github.com/respeer-ai/linera-protocol.git
+cd linera-protocol
+git checkout respeer-maas-testnet_archimedes-5fcbc190-2024_12_06
+cargo install --path linera-service --features disable-native-rpc,enable-wallet-rpc,enable-request-application,storage-service
+cargo install --path linera-storage-service --features storage-service
+```
+
+For the first time to run the RPC endpoint, you can run
+```
+git clone https://github.com/respeer-ai/res-peer.git
+cd res-peer
+./run_node_service.sh -N testnet-archimedes
+```
+
+After that if you would like to restart the node service, you should not run from script or it'll clean all of your microchain data and create a new one. You should run the following command for the exists node
+```
+linera --max-retries 100 --retry-delay-ms 10 service --port 30080 --listener-skip-process-inbox
+```
+
+After that, you can set your own RPC endpoint to CheCko's network then use it.
