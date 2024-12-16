@@ -45,12 +45,6 @@ Preset applications (application management service, wrapper test Lienra, linera
   <img src="../../assets/2-5-6.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 <kbd>
-  <img src="../../assets/2-5-7.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
-</kbd>
-<center>
-
-</center>
-<kbd>
   <img src="../../assets/2-5-9.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
   Application management service is not<br>requested correctly, you should click <br><strong>Request now</strong> to request it manually
 </kbd>
