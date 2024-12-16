@@ -8,7 +8,7 @@ As we already described, Linera is the fastest blockchain, but at this moment, C
 
 To some extent it's the same as the above questions. But there is differences for some case. The first is that after we create microchain, we will request 4 application to the new microchain. It contains wrapper test Linera token, swap application from Linera Hacker community, application management service and blob gateway application from respeer.ai. It still need some time to execute those preparation. The second is that if the wallet client is run in a weak network, it may take longer time to communicate with RPC endpoint. The third is that on the Linera testnet, validators is located in different area which may be far away from RPC endpoint, thus RPC endpoint need more time to communicate with validators for block finality.
 
-## After creating microchain, it should contains 4 applications, why I see some applications ask me to request ?
+### After creating microchain, it should contains 4 applications, why I see some applications ask me to request ?
 
 Sometimes the request may be timeout. As you know we cannot wait forever in frontend, so we will timeout if we cannot finish all requests within the time. But don't worry, you just need to request again for different application then it'll work.
 
