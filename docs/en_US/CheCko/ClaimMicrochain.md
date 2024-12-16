@@ -7,13 +7,13 @@ Each microchain will be claimed from preset faucet with users' public key.
 <br>
 <center>
 <kbd>
-  <img src="../../assets/2-5-1.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="assets/2-5-1.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 <kbd>
-  <img src="../../assets/2-5-2.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="assets/2-5-2.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 <kbd>
-  <img src="../../assets/2-5-3.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="assets/2-5-3.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 </center>
 
@@ -28,10 +28,10 @@ Exists microchain could be imported to another RPC endpoint, or wallet.
 <br>
 <center>
 <kbd>
-  <img src="../../assets/2-5-4.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="assets/2-5-4.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 <kbd>
-  <img src="../../assets/2-5-5.png" style="max-height:100%; height: 800px; width: auto; display: block;" />
+  <img src="assets/2-5-5.png" style="max-height:100%; height: 800px; width: auto; display: block;" />
 </kbd>
 </center>
 
@@ -42,13 +42,13 @@ Preset applications (application management service, wrapper test Lienra, linera
 <br>
 <center>
 <kbd>
-  <img src="../../assets/2-5-6.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="assets/2-5-6.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 <kbd>
-  <img src="../../assets/2-5-9.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="assets/2-5-9.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
   Application management service is not<br>requested correctly, you should click <br><strong>Request now</strong> to request it manually
 </kbd>
 <kbd>
-  <img src="../../assets/2-5-8.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="assets/2-5-8.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 </center>

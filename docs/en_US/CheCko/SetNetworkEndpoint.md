@@ -8,13 +8,13 @@ It's a bit different of CheCko network from Metamask. In Metamask, a network mea
 
 <center>
 <kbd>
-  <img src="../../assets/2-3-1.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="assets/2-3-1.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 <kbd>
-  <img src="../../assets/2-3-2.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="assets/2-3-2.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 <kbd>
-  <img src="../../assets/2-3-3.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="assets/2-3-3.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 </center>
 
@@ -24,10 +24,10 @@ Specifically, the blob gateway service is provided by respeer.io as the blob ind
 
 <center>
 <kbd>
-  <img src="../../assets/2-3-4.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="assets/2-3-4.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 <kbd>
-  <img src="../../assets/2-3-5.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="assets/2-3-5.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 </center>
 
@@ -39,6 +39,6 @@ Now you can change network.
 
 <center>
 <kbd>
-  <img src="../../assets/2-3-6.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="assets/2-3-6.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 </center>
