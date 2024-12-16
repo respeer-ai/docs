@@ -16,7 +16,6 @@ web3.eth.requestAccounts().then((accounts) => {
 ### Get provider state
 
 ```
-const web3 = new Web3(window.linera)
 window.linera?.request({
   method: 'metamask_getProviderState'
 }).then((result) => {
@@ -45,6 +44,8 @@ web3.eth.sign(hexContent, '0x' + accounts[0].slice(0, 40))
 ```
 
 ### Publish blob data
+
+Be careful, Linera has two member to represent an account. One is public key which means same as traditional public key. Another is owner, which is digest of the public key. The owner is Linera specific for account.
 
 ```
 const web3 = new Web3(window.linera)
