@@ -1,4 +1,7 @@
-![image](assets/ResPeer@512w.png)
+<center>
+  <img src="assets/ResPeer@512w.png" />
+</center>
+<br>
 
 # ResPeer: Peer-to-Peer content publishing application on Linera
 
@@ -7,7 +10,6 @@
 ## ResPeer on Linera
 
 ResPeer is a Peer-to-Peer content publishing application on Linera. ResPeer aims to build a community in which author can publish content to get credits easily and the credits can be used to buy assets.
-
 
 Basically, there're two types producer in ResPeer, one is the content producer who publishes content, they will get rewards from the reward pool of the fundation, and get credits incentive issued by credit application. Another is asset producer who create digital arts then put on shelves of the market for sale, the asset's price will be set with Linera.
 

@@ -16,7 +16,7 @@ Extension application will be unzipped to a folder, normally it should be **Pack
 
 <center>
 <kbd>
-  <img src="../../assets/2-1-2.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+  <img src="assets/2-1-2.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
 </kbd>
 </center>
 
@@ -28,7 +28,7 @@ Since we don't publish CheCko to chrome extension application store, so you need
 
 <center>
 <kbd>
-  <img src="../../assets/2-1-3-1.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+  <img src="assets/2-1-3-1.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
 </kbd>
 
 =======
@@ -39,7 +39,7 @@ Since we don't publish CheCko to chrome extension application store, so you need
 
 <center>
 <kbd>
-  <img src="../../assets/2-1-4.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+  <img src="assets/2-1-4.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
 </kbd>
 </center>
 
@@ -47,7 +47,7 @@ Since we don't publish CheCko to chrome extension application store, so you need
 
 <center>
 <kbd>
-  <img src="../../assets/2-1-5.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+  <img src="assets/2-1-5.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
 </kbd>
 </center>
 
@@ -55,7 +55,7 @@ Since we don't publish CheCko to chrome extension application store, so you need
 
 <center>
 <kbd>
-  <img src="../../assets/2-1-6.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+  <img src="assets/2-1-6.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
 </kbd>
 </center>
 
@@ -63,7 +63,7 @@ Since we don't publish CheCko to chrome extension application store, so you need
 
 <center>
 <kbd>
-  <img src="../../assets/2-1-7.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+  <img src="assets/2-1-7.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
 </kbd>
 </center>
 
