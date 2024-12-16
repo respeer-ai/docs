@@ -2,7 +2,7 @@
 
 Each microchain will be claimed from preset faucet with users' public key.
 
-### Claim, backup and validate microchain
+## Claim, backup and validate microchain
 
 <br>
 <center>
@@ -21,7 +21,7 @@ Each microchain will be claimed from preset faucet with users' public key.
 
 **Note**: User must backup microchain creation material properly. It could be used to recover the created microchain on another RPC endpoint again later. Keep in mind that in Linera, microchain is everything of your assets.
 
-### Import microchain
+## Import microchain
 
 Exists microchain could be imported to another RPC endpoint, or wallet.
 
@@ -35,7 +35,7 @@ Exists microchain could be imported to another RPC endpoint, or wallet.
 </kbd>
 </center>
 
-### Validate preset applications
+## Validate preset applications
 
 Preset applications (application management service, wrapper test Lienra, linera swap application, blob gateway application) should be imported automatically to created or imported microchain. But it may fail sometimes due to unexpected errors like network failure. At that time you can goto microchain detail page then request those application manually in the wallet. You must ensure all of preset applications are requested correctly before you start to use the microchain. In future we'll be able to use any applications anywhere then we'll remove those work around.
 

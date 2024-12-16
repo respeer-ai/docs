@@ -1,6 +1,6 @@
 # Check initial settings
 
-### Swap application id
+## Swap application id
 
 Swap application spec is provided by Linera Hacker community. Here we just integrate it for easy access. Users can deploy their own Swap application, then change application ID to the one they deployed.
 
@@ -13,7 +13,7 @@ Swap application spec is provided by Linera Hacker community. Here we just integ
 </kbd>
 </center>
 
-### WLinera application id
+## WLinera application id
 
 WLinera application spec is provided by Linera Hacker community. Here we just integrate it for easy access. WTLinera application is just exists to let users be able to exchange ERC20 like tokens with wrapper native token due to native token cannot support application holder. It'll be removed after application holder is supported.
 
@@ -23,7 +23,7 @@ WLinera application spec is provided by Linera Hacker community. Here we just in
 </kbd>
 </center>
 
-### AMS application id
+## AMS application id
 
 Application management service could be integrated by other applications to let them register themselves to application management service. Application management service provides a frontend application to show the applications' information. It act like an application store of Linera network.
 
@@ -33,7 +33,7 @@ Application management service could be integrated by other applications to let 
 </kbd>
 </center>
 
-### Blob gateway application id
+## Blob gateway application id
 
 Blob gateway is the blob data indexer of Linera blockchain. ResPeer provides a frontend to list base information of uploaded blob date. With blob gateway, you can also fetch blob data with **GET** method, which is different from graphql **POST**. It's better for application which need to use the blob as image in the frontend with html *<img>* tag. Users or applications who need their data to be displayed by blob gateway should register their blob metadata to blob gateway by themselves.
 
@@ -43,7 +43,7 @@ Blob gateway is the blob data indexer of Linera blockchain. ResPeer provides a f
 </kbd>
 </center>
 
-### Faucet
+## Faucet
 
 It's genesis faucet. Users may run their own faucet service, but they should have the same network information as the genesis one.
 
@@ -53,7 +53,7 @@ It's genesis faucet. Users may run their own faucet service, but they should hav
 </kbd>
 </center>
 
-### Validate network information
+## Validate network information
 
 User should check the **Genesis** menu to validate they connect to network with right *Admin chain*, *Validators set* and *version*.
 
