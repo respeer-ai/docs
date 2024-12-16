@@ -13,6 +13,7 @@
   - [**2.8.** Import account with private key](en_US/CheCko/ImportPrivateKey.md)
   - [**2.9.** Support of web3.js](en_US/CheCko/TestWeb3API.md)
   - [**2.10.** Clear current application connection](en_US/CheCko/ClearCurrentApplicationConnection.md)
+  - [**2.10.** TODOs](en_US/CheCko/TODOs.md)
 
 - [**3.** Blob gateway](en_US/BlobGateway.md)
   - [**3.1.** Blob storage](en_US/BlobGateway/BlobStorage.md)
