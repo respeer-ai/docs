@@ -1,3 +1,3 @@
 # Get blob data
 
-We have to fetch uploaded blob data with graphql `POST` method currently (this may be modified in future). If it's a image which should be displayed in frontend, it's a bit complex. So we create blob gateway to let frontend be able to fetch blob data with `GET` method directly.
+We have to fetch uploaded blob data with the graphql `POST` method currently (this may be modified in the future). If it's an image that should be displayed in the front, it's a bit complex. So we create a blob gateway to let the frontend be able to fetch blob data with `GET` method directly.
