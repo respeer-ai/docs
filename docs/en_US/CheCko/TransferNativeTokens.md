@@ -1,10 +1,10 @@
 # Transfer native tokens
 
-Different from traditional blockchain, you need to know which chain you need to send. You can send assets to microchain balance or account balance of some microchain.
+Different from traditional blockchain, you need to know which chain you need to send to. You can send assets to the microchain balance or account balance of some microchains.
 
 ### Set transfer information then transfer
 
-Since Linera can hold native tokens in account or microchain balance. Users need to select account and microchain to send their tokens.
+Since Linera can hold native tokens in an account or microchain balance. Users need to select an account and microchain to send their tokens.
 
 <center>
 <kbd>
