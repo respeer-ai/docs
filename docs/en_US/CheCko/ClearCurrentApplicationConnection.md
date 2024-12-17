@@ -1,6 +1,6 @@
 # Clear current application connection
 
-We should have a permissions menu in CheCko to let users be able to remove connections from web applications, but currently, it's not implemented. If users really want to remove it, they can follow these sections to remove what they want. And, keep in mind that always backup your important data before you do that. It's dangerous to operate a wallet store directly.
+We should have a permissions menu in CheCko to let users be able to remove connections from web applications, but currently, it's not implemented. If users really want to remove it, they can follow these sections to remove what they want. And keep in mind that always back up your important data before you do that. It's dangerous to operate a wallet store directly.
 
 ### Open wallet database storage
 

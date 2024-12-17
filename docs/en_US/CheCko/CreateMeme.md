@@ -1,10 +1,10 @@
-# Fungible ERC20 like meme token
+# Fungible ERC20-like meme token
 
-This chapter we describe how to create and transfer meme token on Linera testnet. Users must understand the ERC20 spec on Linera is provided by Linera Hacker community. The frontend application is also provided by Linera Hacker community. CheCko just implement ERC20 like spec to support transferring between different accounts. Users should understand their local policy well to know about the risks of create meme tokens. We (respeer.ai and developers of the services) won't ensure any risks caused by users' behavior of usage for those products.
+In this chapter, we describe how to create and transfer meme tokens on the Linera testnet. Users must understand the ERC20 spec on Linera is provided by the Linera Hacker community. The front-end application is also provided by the Linera Hacker community. CheCko just implements ERC20-like spec to support transferring between different accounts. Users should understand their local policy well to know about the risks of creating meme tokens. We (respeer.ai and developers of the services) won't ensure any risks caused by users' behavior of usage for those products.
 
 ## Create meme
 
-`Linera Hacker` community define a draft of ERC20 like fungible token on Linera. Web application is deployed on `https://testnet-archimedes.linerameme.fun` to let user be able to create meme on Linera easily. Each created meme will be listed to `https://testnet-archimedes.lineraswap.fun` automatically.
+The `Linera Hacker` community defines a draft of ERC20- like fungible token on Linera. The Web application is deployed on `https://testnet-archimedes.linerameme.fun` to let users be able to create meme on Linera easily. Each created memes will be listed to `https://testnet-archimedes.lineraswap.fun` automatically.
 
 ### Create ERC20 like fungible meme
 
@@ -126,7 +126,7 @@ This chapter we describe how to create and transfer meme token on Linera testnet
 
 ## Import exists meme
 
-Before you interact with meme token, you must import it to your wallet.
+Before you interact with the meme tokens, you must import it into your wallet.
 
 <br>
 <center>
@@ -148,9 +148,9 @@ Before you interact with meme token, you must import it to your wallet.
 </kbd>
 </center>
 
-### Transfer ERC20 like fungible meme
+### Transfer ERC20-like fungible meme
 
-After success to import ERC20 fungible token, you can transfer token to other accounts. Some token may support mint by native token (currently due to application cannot hold native token on testnet, so you have to mint with WTLINERA token which could be minted by native token) then users can mint with in the wallet directly.
+After success in importing ERC20 fungible tokens, you can transfer tokens to other accounts. Some tokens may support minting by native token (currently, due to the application not holding native tokens on testnet, you have to mint with WTLINERA token which could be minted by native token) then users can mint within the wallet directly.
 
 <center>
 <kbd>
@@ -180,7 +180,7 @@ After success to import ERC20 fungible token, you can transfer token to other ac
 
 ### Swap meme
 
-Every fungible meme token created on [Linera meme](https://testnet-archimedes.linerameme.fun) will be listed to [Linera swap](https://testnet-archimedes.lineraswap.fun) automatically. User can Swap the meme token in the SWAP application directly.
+Every fungible meme token created on [Linera meme](https://testnet-archimedes.linerameme.fun) will be listed to [Linera swap](https://testnet-archimedes.lineraswap.fun) automatically. Users can Swap the meme token in the SWAP application directly.
 
 <center>
 <kbd>
@@ -215,9 +215,9 @@ Every fungible meme token created on [Linera meme](https://testnet-archimedes.li
 </center>
 
 
-### Add liquidity for swap pool
+### Add liquidity for the swap pool
 
-User can also Add Liquidity for the token pools in the SWAP application.
+Users can also Add Liquidity for the token pools in the SWAP application.
 
 <center>
 <kbd>
@@ -237,7 +237,7 @@ User can also Add Liquidity for the token pools in the SWAP application.
 </kbd>
 </center>
 
-### Remove liquidity for swap pool
+### Remove liquidity for the swap pool
 
 User can also Remove Liquidity for the token pools in the SWAP application.
 
@@ -264,7 +264,7 @@ User can also Remove Liquidity for the token pools in the SWAP application.
 
 ### View tokens pair graph and leaderboard
 
-User can view token pools candle graph in [Linera swap](https://testnet-archimedes.lineraswap.fun). A simple leaderboard is implemented to display top tokens and top holders.
+Users can view the token pools candle graph in [Linera swap](https://testnet-archimedes.lineraswap.fun). A simple leaderboard is implemented to display top tokens and top holders.
 
 <center>
 <kbd>

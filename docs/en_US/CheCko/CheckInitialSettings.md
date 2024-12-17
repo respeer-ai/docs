@@ -2,7 +2,7 @@
 
 ### Swap application id
 
-Swap application spec is provided by Linera Hacker community. Here we just integrate it for easy access. Users can deploy their own Swap application and then change application ID to the one they deployed.
+Swap application spec is provided by Linera Hacker community. Here we just integrate it for easy access. Users can deploy their own Swap application and then change the application ID to the one they deployed.
 
 <center>
 <kbd>
@@ -55,7 +55,7 @@ It's genesis faucet. Users may run their own faucet service, but they should hav
 
 ### Validate network information
 
-Users should check the **Genesis** menu to validate they connect to the network with right *Admin chain*, *Validators set* and *version*.
+Users should check the **Genesis** menu to validate they connect to the network with the right *Admin chain*, *Validators set* and *version*.
 
 <center>
 <kbd>
