@@ -84,7 +84,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ### Install wasm toolchain then compile
 
 ```
-yarn install wasm-pack
+yarn add -s wasm-pack
 yarn
 yarn build:wasm
 yarn build:bex
