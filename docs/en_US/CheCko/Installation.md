@@ -6,9 +6,7 @@ Currently we don't publish pre-built package to chrome application store. Users 
 
 ### Download release package from github
 
-```
-wget https://github.com/respeer-ai/linera-wallet/releases/download/v0.0.1/Packaged.linera-checko-wallet.v0.0.1.zip
-```
+[Download CheCko v0.0.1](https://github.com/respeer-ai/linera-wallet/releases/download/v0.0.1/Packaged.linera-checko-wallet.v0.0.1.zip)
 
 ### Unzip
 
