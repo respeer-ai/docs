@@ -2,7 +2,7 @@
 
 Users can connect to Linera testnet through CheCko with web3.js api. With some Linera specific APIs, developers can invoke CheCko with totally the same graphql schema as Node Service. CheCko has a 100ms delay for each popup the window, so if a web application has some consecutive operations, they should be executed with interval **100ms** one by one if everyone needs to popup window to confirm. Otherwise, the user will get consecutive confusing **Executing** popup the windows. But for some interactive games, this may not function well. So CheCko designed a silent mode of operations. If the user selects **Use same selection for future requests**, then CheCko won't pop up to the same operations within 24 hours. But for operations like **Transfer**, **Approve** which will transfer users' balance, and for **Sign** which should let users understand the content, CheCko will always pop up to confirm.
 
-### Request accounts
+## Request accounts
 
 ```
 const web3 = new Web3(window.linera)
@@ -13,7 +13,7 @@ web3.eth.requestAccounts().then((accounts) => {
 })
 ```
 
-### Get provider state
+## Get provider state
 
 ```
 window.linera?.request({
@@ -25,7 +25,7 @@ window.linera?.request({
 })
 ```
 
-### Sign content
+## Sign content
 
 ```
 const web3 = new Web3(window.linera)
@@ -43,7 +43,7 @@ web3.eth.sign(hexContent, '0x' + accounts[0].slice(0, 40))
   })
 ```
 
-### Publish blob data
+## Publish blob data
 
 Be careful, Linera has two members to represent an account. One is the public key，which is the same as the traditional public key. Another is the owner, which is a digest of the public key. The owner is unique to the Linera for the account.
 
@@ -73,7 +73,7 @@ const result = await window.linera.request({
 })
 ```
 
-### Linera mutation
+## Linera mutation
 
 ```
 const web3 = new Web3(window.linera)
@@ -108,7 +108,7 @@ const result = await window.linera.request({
 })
 ```
 
-### Linera query
+## Linera query
 
 ```
 const web3 = new Web3(window.linera)
@@ -134,7 +134,7 @@ const res = await window.linera?.request({
 })
 ```
 
-### Linera subscription
+## Linera subscription
 
 ```
 const subscriptionHandler = (msg: unknown) => {

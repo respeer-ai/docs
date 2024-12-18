@@ -1,4 +1,7 @@
-![image](webui/src/assets/ResPeer@512w.png)
+<center>
+  <img src="assets/ResPeer@512w.png" />
+</center>
+<br>
 
 # ResPeer: Peer-to-Peer content publishing application on Linera
 
@@ -19,7 +22,7 @@ ResPeer provides a market for asset producers to put their work on shelves. The 
 
 ## Workflow
 
-![image](webui/src/assets/Workflow.png)
+![image](assets/Workflow.png)
 
 TL;NR
 
