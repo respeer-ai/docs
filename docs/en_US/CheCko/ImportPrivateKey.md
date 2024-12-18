@@ -1,6 +1,6 @@
 # Import private key
 
-User can import exists private key into CheCko wallet. The imported accounts could not be recovered with wallet's mnemonic.
+Users can import the existing private key into CheCko wallet. The imported accounts could not be recovered with the wallet's mnemonic.
 
 ## Import account with private key
 

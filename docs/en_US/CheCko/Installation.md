@@ -1,16 +1,16 @@
 # Installation
 
-Currently we don't publish pre-built package to chrome application store. Users who would like to use CheCko should install it from github repository.
+Currently, we don't publish the pre-built package to the Chrome application store. Users who would like to use CheCko should install it from the github repository.
 
-## Install from release zip package
+## Install from the release zip package
 
-### Download release package from github
+### Download the release package from github
 
 [Download CheCko v0.0.1](https://github.com/respeer-ai/linera-wallet/releases/download/v0.0.1/Packaged.linera-checko-wallet.v0.0.1.zip)
 
 ### Unzip
 
-Extension application will be unzipped to a folder, normally it should be **Packaged.linera-checko-wallet-$VERSION** if you don't modify the zip file name. In the following part of the document we use **$APPLICATION_DIR** to represent this unzip path.
+The extension application will be unzipped to a folder, normally, it should be **Packaged.linera-checko-wallet-$VERSION** if you don't modify the zip file name. In the following part of the document we use **$APPLICATION_DIR** to represent this unzip path.
 
 <center>
 <kbd>
@@ -90,7 +90,7 @@ yarn build:bex
 
 ### Load built package into chrome extension
 
-It's totally same as above section besides that you need to load from directory *linera-wallet/dist/bex*.
+It's the same as the above section besides that, you need to load from directory *linera-wallet/dist/bex*.
 
 ## Run MaaS (Microchain as a Service) RPC endpoint
 
@@ -117,3 +117,4 @@ linera --max-retries 100 --retry-delay-ms 10 service --port 30080 --listener-ski
 ```
 
 After that, you can set your own RPC endpoint to CheCko's network then use it.
+

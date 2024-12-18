@@ -1,3 +1,3 @@
 # Blob storage
 
-Linera provide blob storage to let use store their data to an off-chain storage of Linera blockchain. Uploaded blob data will be indexed on-chain, then could be fetched by any on-chain application easily.
+Linera provides blob storage to let users store their data in off-chain storage of the Linera blockchain. Uploaded blob data will be indexed on-chain and then could be fetched by any on-chain application easily.
