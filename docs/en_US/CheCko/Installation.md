@@ -14,7 +14,7 @@ The extension application will be unzipped to a folder, normally, it should be *
 
 <center>
 <kbd>
-  <img src="assets/2-1-2.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+  <img src="https://raw.githubusercontent.com/respeer-ai/docs/refs/heads/master/docs/assets/2-1-2.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
 </kbd>
 </center>
 
