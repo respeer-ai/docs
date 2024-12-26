@@ -8,10 +8,10 @@ Your password must contain letters, digits, and symbols. You must store your pas
 
 <center>
 <kbd>
-  <img src="assets/2-2-2.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="https://raw.githubusercontent.com/respeer-ai/docs/refs/heads/master/docs/assets/2-2-2.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 <kbd>
-  <img src="assets/2-2-1.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="https://raw.githubusercontent.com/respeer-ai/docs/refs/heads/master/docs/assets/2-2-1.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 </center>
 
@@ -21,10 +21,10 @@ Currently, the mnemonic can only recover the first generated account. If you cre
 
 <center>
 <kbd>
-  <img src="assets/2-2-3.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="https://raw.githubusercontent.com/respeer-ai/docs/refs/heads/master/docs/assets/2-2-3.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 <kbd>
-  <img src="assets/2-2-3-1.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="https://raw.githubusercontent.com/respeer-ai/docs/refs/heads/master/docs/assets/2-2-3-1.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 </center>
 
@@ -34,13 +34,13 @@ Besides the mnemonic, you can also backup private keys for all of your accounts 
 
 <center> 
 <kbd>
-  <img src="assets/2-2-4.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="https://raw.githubusercontent.com/respeer-ai/docs/refs/heads/master/docs/assets/2-2-4.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 <kbd>
-  <img src="assets/2-2-5.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="https://raw.githubusercontent.com/respeer-ai/docs/refs/heads/master/docs/assets/2-2-5.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 <kbd>
-  <img src="assets/2-2-6.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="https://raw.githubusercontent.com/respeer-ai/docs/refs/heads/master/docs/assets/2-2-6.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 </center>
 
@@ -48,9 +48,9 @@ Besides the mnemonic, you can also backup private keys for all of your accounts 
 
 <center>
 <kbd>
-  <img src="assets/2-2-7.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="https://raw.githubusercontent.com/respeer-ai/docs/refs/heads/master/docs/assets/2-2-7.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 <kbd>
-  <img src="assets/2-2-8.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="https://raw.githubusercontent.com/respeer-ai/docs/refs/heads/master/docs/assets/2-2-8.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 </center>
