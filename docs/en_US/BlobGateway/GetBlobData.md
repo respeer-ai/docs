@@ -9,6 +9,6 @@ Like ipfs.gateway, we deploy an application on [Blob Gateway](https://testnet-ar
 <br>
 <center>
 <kbd>
-  <img src="assets/3-2-1.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="https://raw.githubusercontent.com/respeer-ai/docs/refs/heads/master/docs/assets/3-2-1.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 </center>

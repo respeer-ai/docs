@@ -10,10 +10,10 @@ If the user really needs to change their authorized account to a web application
 <center>
 
 <kbd>
-  <img src="assets/2-10-1.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="https://raw.githubusercontent.com/respeer-ai/docs/refs/heads/master/docs/assets/2-10-1.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 <kbd>
-  <img src="assets/2-10-2.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+  <img src="https://raw.githubusercontent.com/respeer-ai/docs/refs/heads/master/docs/assets/2-10-2.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
 </kbd>
 
 </center>
@@ -26,7 +26,7 @@ Be careful, you should click the **garbage box** to remove one item from the tab
 <center>
 
 <kbd>
-  <img src="assets/2-10-3.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
+  <img src="https://raw.githubusercontent.com/respeer-ai/docs/refs/heads/master/docs/assets/2-10-3.png" style="max-width: 100%; width: 768px; height: auto; display: block;" />
 </kbd>
 
 </center>

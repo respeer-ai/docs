@@ -6,10 +6,10 @@ Swap application spec is provided by Linera Hacker community. Here we just integ
 
 <center>
 <kbd>
-  <img src="assets/2-4-1.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="https://raw.githubusercontent.com/respeer-ai/docs/refs/heads/master/docs/assets/2-4-1.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 <kbd>
-  <img src="assets/2-4-2.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="https://raw.githubusercontent.com/respeer-ai/docs/refs/heads/master/docs/assets/2-4-2.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 </center>
 
@@ -19,7 +19,7 @@ WLinera application spec is provided by the Linera Hacker community. Here, we ju
 
 <center>
 <kbd>
-  <img src="assets/2-4-3.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="https://raw.githubusercontent.com/respeer-ai/docs/refs/heads/master/docs/assets/2-4-3.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 </center>
 
@@ -29,7 +29,7 @@ Application management service could be integrated with other applications to le
 
 <center>
 <kbd>
-  <img src="assets/2-4-4.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="https://raw.githubusercontent.com/respeer-ai/docs/refs/heads/master/docs/assets/2-4-4.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 </center>
 
@@ -39,7 +39,7 @@ Blob gateway is the blob data indexer of the Linera blockchain. ResPeer provides
 
 <center>
 <kbd>
-  <img src="assets/2-4-5.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="https://raw.githubusercontent.com/respeer-ai/docs/refs/heads/master/docs/assets/2-4-5.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 </center>
 
@@ -49,7 +49,7 @@ It's genesis faucet. Users may run their own faucet service, but they should hav
 
 <center>
 <kbd>
-  <img src="assets/2-4-6.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="https://raw.githubusercontent.com/respeer-ai/docs/refs/heads/master/docs/assets/2-4-6.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 </center>
 
@@ -59,9 +59,9 @@ Users should check the **Genesis** menu to validate they connect to the network 
 
 <center>
 <kbd>
-  <img src="assets/2-4-6.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="https://raw.githubusercontent.com/respeer-ai/docs/refs/heads/master/docs/assets/2-4-6.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 <kbd>
-  <img src="assets/2-4-7.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
+  <img src="https://raw.githubusercontent.com/respeer-ai/docs/refs/heads/master/docs/assets/2-4-7.png" style="max-height:100%; height: 600px; width: auto; display: block;" />
 </kbd>
 </center>

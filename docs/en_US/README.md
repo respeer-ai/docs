@@ -1,5 +1,5 @@
 <center>
-  <img src="assets/ResPeer@512w.png" />
+  <img src="https://raw.githubusercontent.com/respeer-ai/docs/refs/heads/master/docs/assets/ResPeer@512w.png" />
 </center>
 <br>
 
