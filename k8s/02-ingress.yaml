@@ -1,6 +1,33 @@
 apiVersion: networking.k8s.io/v1beta1
 kind: Ingress
 metadata:
+  name: hk-respeer-docs-webui-ingress
+  namespace: kube-system
+  annotations:
+    k8s.kuboard.cn/displayName: hk-respeer-docs-webui
+    k8s.kuboard.cn/workload: hk-respeer-docs-webui
+    kubernetes.io/ingress.class: "traefik-internet"
+    traefik.ingress.kubernetes.io/router.entrypoints: websecure, web
+    traefik.ingress.kubernetes.io/router.middlewares:
+      kube-system-http-redirect-https@kubernetescrd
+
+spec:
+  tls:
+    - hosts:
+        - 'hk.docs.respeer.ai'
+      secretName: hk-docs-respeer-ai-tls
+  rules:
+    - host: hk.docs.respeer.ai
+      http:
+        paths:
+          - path: /
+            backend:
+              serviceName: respeer-docs-webui
+              servicePort: 3000
+---
+apiVersion: networking.k8s.io/v1beta1
+kind: Ingress
+metadata:
   name: respeer-docs-webui-ingress
   namespace: kube-system
   annotations:
@@ -14,10 +41,10 @@ metadata:
 spec:
   tls:
     - hosts:
-        - 'hk.docs.respeer.ai'
-      secretName: hk-docs-respeer-ai-tls
+        - 'docs.respeer.ai'
+      secretName: docs-respeer-ai-tls
   rules:
-    - host: hk.docs.respeer.ai
+    - host: docs.respeer.ai
       http:
         paths:
           - path: /
