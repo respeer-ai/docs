@@ -6,7 +6,7 @@ Currently, we don't publish the pre-built package to the Chrome application stor
 
 ### Download the release package from github
 
-[Download CheCko v0.0.8](https://github.com/respeer-ai/linera-wallet/releases/download/v0.0.8/Packaged.linera-checko-wallet.v0.0.8.zip)
+[Download CheCko v0.0.8.1](https://github.com/respeer-ai/linera-wallet/releases/download/v0.0.8.1/Packaged.linera-checko-wallet.v0.0.8.1.zip)
 
 ### Unzip
 
