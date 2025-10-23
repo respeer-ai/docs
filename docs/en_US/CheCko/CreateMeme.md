@@ -4,7 +4,7 @@ In this chapter, we describe how to create and transfer meme tokens on the Liner
 
 ## Create ERC20 like fungible meme
 
-The `Linera Hacker` community defines a draft of ERC20- like fungible token on Linera. The Web application is deployed on `https://testnet-archimedes.linerameme.fun` to let users be able to create meme on Linera easily. Each created memes will be listed to `https://testnet-archimedes.lineraswap.fun` automatically.
+The `Linera Hacker` community defines a draft of ERC20- like fungible token on Linera. The Web application is deployed on `https://testnet-conway.linerameme.fun` to let users be able to create meme on Linera easily. Each created memes will be listed to `https://testnet-conway.lineraswap.fun` automatically.
 
 <br>
 <center>
@@ -178,7 +178,7 @@ After success in importing ERC20 fungible tokens, you can transfer tokens to oth
 
 ## Swap meme
 
-Every fungible meme token created on [Linera meme](https://testnet-archimedes.linerameme.fun) will be listed to [Linera swap](https://testnet-archimedes.lineraswap.fun) automatically. Users can Swap the meme token in the SWAP application directly.
+Every fungible meme token created on [Linera meme](https://testnet-conway.linerameme.fun) will be listed to [Linera swap](https://testnet-conway.lineraswap.fun) automatically. Users can Swap the meme token in the SWAP application directly.
 
 <center>
 <kbd>
@@ -261,7 +261,7 @@ User can also Remove Liquidity for the token pools in the SWAP application.
 
 ## View tokens pair graph and leaderboard
 
-Users can view the token pools candle graph in [Linera swap](https://testnet-archimedes.lineraswap.fun). A simple leaderboard is implemented to display top tokens and top holders.
+Users can view the token pools candle graph in [Linera swap](https://testnet-conway.lineraswap.fun). A simple leaderboard is implemented to display top tokens and top holders.
 
 <center>
 <kbd>

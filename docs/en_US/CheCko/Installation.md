@@ -99,7 +99,7 @@ CheCko should be run with MaaS RPC endpoint, which maintain microchain store for
 ```
 git clone https://github.com/respeer-ai/linera-protocol.git
 cd linera-protocol
-git checkout respeer-maas-testnet_archimedes-5fcbc190-2024_12_06
+git checkout respeer-maas-testnet_conway-f0fad6aa-2025-10-16
 cargo install --path linera-service --features disable-native-rpc,enable-wallet-rpc,enable-request-application,storage-service
 cargo install --path linera-storage-service --features storage-service
 ```
@@ -108,7 +108,7 @@ For the first time to run the RPC endpoint, you can run
 ```
 git clone https://github.com/respeer-ai/res-peer.git
 cd res-peer
-./run_node_service.sh -N testnet-archimedes
+./run_node_service.sh -N testnet-conway
 ```
 
 After that if you would like to restart the node service, you should not run from script or it'll clean all of your microchain data and create a new one. You should run the following command for the exists node

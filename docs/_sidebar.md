@@ -20,7 +20,7 @@
   - [**3.2.** GET for blob data](en_US/BlobGateway/GetBlobData.md)
   - [**3.3.** Application integration](en_US/BlobGateway/ApplicationIntegration.md)
 
-- [**4.** Linera archimedes testnet faucet](en_US/LineraArchimedesTestnet.md)
+- [**4.** Linera conway testnet faucet](en_US/LineraConwayTestnet.md)
  
 - [**5.** ResPeer testnet endpoint](en_US/ResPeerTestnetEndpoint.md)
 

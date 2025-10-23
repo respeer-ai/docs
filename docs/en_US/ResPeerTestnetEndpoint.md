@@ -1,25 +1,22 @@
-# ResPeer testnet archimedes endpoint
+# ResPeer testnet conway endpoint
 
 - *RPC endpoint*
 
-`https://testnet-archimedes.respeer.ai:443/rpc`
+`https://api.testnet-conway.rpc.respeer.ai/api/rpc`
 
 - *Blob gateway*
 
-`https://testnet-archimedes.blobgateway.com`
+`https://testnet-conway.blobgateway.com`
 
 - *Swap application*
 
-`ca30b7409bfa4a373c2597ca63568ce698679c53ddeef9cc033aba955d2823b5f332095b5e2bb1757c03fd11fa58e930c7f6e28cc5cea0309f21db1dca210a2223011460ebc72efac0b7f73ccd5bcb5d12eda134c75054d55e90c8abc0b99dda060000000000000000000000`
-
-- *Wrapper Testnet Linera application*
-
-`716c598da8db64bd276d6efbae5c67842c9caf16eade6587d51b0ff001e4a7b407b5e65376146b60763dfc1776a4353e15e3333f7ba53ccc88756f2b0d6308d2d92e5f94e7a4caf67c3ab283d3958fd0c870144a685c6fd51e897c299e6da621060000000000000000000000`
+`c58510d2d16c98dbceab1ca17e6daf95525265dbd84ca5d86ff293913298b546`
 
 - *Application management service*
 
-`61afe169cf65c3798ebe9f968f0317bfb37a1087a131efa180308ba3d82e8ba53f73938f84203fb4f8cbc8f0a0eab6101872be430b536c756d5bfa7855d2a868860264780e386ac1c6b5a869f8df5a4e2b21f2bf6813f87001e873c0ff407d03030000000000000000000000`
+`143a1f0ad4290a010478a66371b2f50b8fa2fa9a7a1276db789511d32c9ca49d`
 
 - *Blob gateway application*
 
-`1d04907279078ae32532119efcf05ceaf3715c5ea0f7eed2c22046580c8e64efdcd98a9d4c4aba9730db87fc95e9b0a5d2b44edac6fa2a7f5c488e87ed9148af8970f7d8f2eadd58ee22c33298266200bda9f6f4df8e4201fc395673d58c57610f0000000000000000000000`
+`4460d08ec5fe2f7b03b3f0992122c99a3d285f4ae282ae4963650bf4f93526c2`
+

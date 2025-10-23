@@ -4,7 +4,7 @@ We have to fetch uploaded blob data with the graphql `POST` method currently (th
 
 ## Blob gateway
 
-Like ipfs.gateway, we deploy an application on [Blob Gateway](https://testnet-archimedes.blobgateway.com) do index blobs uploaded to Linera blockchain. Frontend application can fetch blob data with GET method from Blob Gateway directly.
+Like ipfs.gateway, we deploy an application on [Blob Gateway](https://testnet-conway.blobgateway.com) do index blobs uploaded to Linera blockchain. Frontend application can fetch blob data with GET method from Blob Gateway directly.
 
 <br>
 <center>
