@@ -15,30 +15,8 @@ spec:
     spec:
       containers:
         - name: respeer-docs-webui
-          image: DOCKER_REGISTRY/linera/respeer-docs-webui:latest
+          image: npool/respeer-docs-webui:latest
           imagePullPolicy: Always
-          env:
-            - name: ENV_ENVIRONMENT_TARGET
-              valueFrom:
-                configMapKeyRef:
-                  name: system-environment
-                  key: environment.target
-            - name: ENV_CONSUL_HOST
-              valueFrom:
-                configMapKeyRef:
-                  name: system-environment
-                  key: environment.consul_host
-            - name: ENV_CONSUL_PORT
-              valueFrom:
-                configMapKeyRef:
-                  name: system-environment
-                  key: environment.consul_port
-            - name: ENV_CLUSTER_NAMESPACE
-              valueFrom:
-                fieldRef:
-                  fieldPath: metadata.namespace
-      imagePullSecrets:
-        - name: regcred
 
 ---
 apiVersion: v1
